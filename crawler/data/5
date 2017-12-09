@@ -1,0 +1,16 @@
+http://old-www.cs.dartmouth.edu/
+2
+<head><title>Welcome to old-www.cs.dartmouth.edu</title></head>
+<body>
+
+<h1>Welcome to old-www.cs.dartmouth.edu</h1>
+
+old-www used to be the CS Department at Dartmouth College's web aserver, but it was replaced a while ago.
+
+<ul>
+<li>the new computer science department web server is <a href="http://web.cs.dartmouth.edu/"> here </a>
+<li>the cs50 page is <a href="http://old-www.cs.dartmouth.edu/~cs50/"> here </a>  
+<li> another old web server that cs50 students can bang on is <a href="http://hamlin.cs.dartmouth.edu/~cs50"> here </a>
+</ul>
+</body>
+

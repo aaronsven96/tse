@@ -1,0 +1,52 @@
+http://old-www.cs.dartmouth.edu/~dfk/papers/abstracts/murthy-thesis.html
+3
+<HTML>
+<HEAD>
+ <TITLE>murthy:thesis</TITLE>
+  <BASE href="http://www.cs.dartmouth.edu/~dfk/papers/index-t.html">
+</HEAD>
+<BODY background="" TEXT="#000000" BGCOLOR="#ffffff">
+Rima Narayana Murthy.
+<b>mCollector: Sensor-enabled health-data collection system for rural
+areas in the developing world</b>.
+Masters Thesis,
+Dartmouth College Computer Science,
+August,
+2014.
+Available as Dartmouth Technical Report TR2015-788.
+<p><b>Abstract:</b> Health data collection poses unique challenges in rural areas of
+the developing world. mHealth systems that are used by health workers to
+collect data in remote rural regions should also record contextual
+information to increase confidence in the fidelity of the collected data.
+<P> We built a user-friendly, mobile health-data collection system using
+wireless medical sensors that interface with an Android application. The
+data-collection system was designed to support minimally trained,
+non-clinical health workers to gather data about blood pressure and body
+weight using off-the-shelf medical sensors. This system comprises a
+blood-pressure cuff, a weighing scale and a portable point-of-sales printer.
+With this system, we introduced a new method to record contextual information
+associated with a blood-pressure reading using a tablet’s touchscreen and
+accelerometer. This contextual information can be used to verify that a
+patient’s lower arm remained well-supported and stationary during her
+blood-pressure measurement. In a preliminary user study, we found that a
+binary support vector machine classifier could be used to distinguish
+lower-arm movements from stationary arms with 90% accuracy. Predetermined
+thresholds for the accelerometer readings suffice to determine whether the
+tablet, and therefore the arm that rested on it, remained supported.
+Together, these two methods can allow mHealth applications to guide untrained
+patients (or health workers) in measuring blood pressure correctly. <P>
+Usability is a particularly important design and deployment challenge in
+remote, rural areas, given the limited resources for technology training and
+support. We conducted a field study to assess our system’s usability in
+Kolar town, India, where we logged health worker interactions with the
+app’s interface using an existing usability toolkit. Researchers analyzed
+logs from this toolkit to evaluate the app’s user experience and quantify
+specific usability challenges in the app. We have recorded experiential notes
+from the field study in this document.</p>
+<p><a href="bibtex/murthy-thesis.bib">BibTeX</a></p>
+<p><a target=_top href = "././murthy-thesis.pdf">PDF</a> (2497K)</p>
+<p><b>Copyright &#169;&nbsp;2014 by the author.</b></p>
+The copy made available here is the authors' version; for a definitive copy see the publisher's version described above.
+</BODY>
+</HTML>
+

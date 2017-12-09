@@ -1,0 +1,11 @@
+README for bag.c
+Aaron Svendsen
+
+Compiling:
+See Make File
+
+Assumptions:
+User has to input correct data
+works as first in first out
+
+Limitations: just contains items

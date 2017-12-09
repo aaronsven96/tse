@@ -1,0 +1,24 @@
+#MakeFile for Hashcode Testcode
+#
+#Aaron Svedsen, 4/23
+
+
+OBJS = hashtable.o list.o jhash.o
+LIBS =
+
+MAKE = make
+CC = gcc
+CFLAGS = -Wall -pedantic -std=c11 -ggdb
+
+ I have no tester program
+ $(PROG): $(OBJS)
+       $(CC) $(CFLAGS) $^ $(LIBS) -o $@
+
+hashtable.o: hashtable.c jhash.c list.c
+jhash.o: jhash.c
+list.o: list.c
+
+
+clean:
+	rm -f *~
+	rm -f *.o

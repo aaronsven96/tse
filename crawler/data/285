@@ -1,0 +1,93 @@
+http://old-www.cs.dartmouth.edu/~dfk/RAPID-Transit.html
+3
+<HTML>
+<HEAD><TITLE>RAPID-Transit project</TITLE></HEAD>
+<BODY BGCOLOR="#EEEEEE" TEXT="#000000">
+<H1>The RAPID-Transit Project (1987-1991)</H1>
+
+<A HREF="/~dfk/"> David Kotz</A>  and
+<A HREF="http://www.cs.duke.edu/~carla/HomePage.html"> Carla Ellis</A>
+
+<P> <B> RAPID-Transit </B> was a testbed for experimenting with
+caching and prefetching algorithms in parallel file systems (RAPID
+means "Read-Ahead for Parallel Independent Disks"), and was part of
+the larger <B> NUMAtic project </B> at <A
+HREF="http://www.cs.duke.edu/"> Duke University</A>.  The testbed ran
+on Duke's 64-processor Butterfly GP1000.  The model we used had a disk
+attached to every processor, and that each file was striped across all
+disks.  Of course, Duke's GP1000 had only one real disk, so our
+testbed simulated its disks.  The implementation and some of the
+policies were dependent on the shared-memory nature of the machine;
+for example, there was a single shared file cache accessible to all
+processors.  We found several policies that were successful at
+prefetching in a variety of parallel file-access patterns.
+ </P><P>
+ All the source code you could ever want, AS-IS, in a 
+  <a href="RAPID.tgz">2.2 MB compressed tar file</a> (3.8 MB when uncompressed, untarred).
+  See also the <a href=RAPID.README.txt>README</a> file.
+ </P><P>
+There are several papers describing this research:
+<UL>
+  <LI>
+       <EM>Prefetching in File Systems for MIMD Multiprocessors</EM>
+       <UL>
+	 <LI>Tech Report <A HREF="/~dfk/papers/index-a.html#ellis:prefetchTR">
+	      1988, outdated (Postscript, 21096 bytes)
+	      </A></LI>
+	      
+	 <LI>Conference <A HREF="/~dfk/papers/index-a.html#ellis:prefetch">
+	      ICCP '89, outdated </A></LI>
+	      
+	 <LI>Journal <A HREF="/~dfk/papers/index-a.html#kotz:prefetch">
+	      TPDS 4/90</A></LI>
+       </UL>
+       </LI>
+       
+  <LI>
+       <EM>Prefetching and Caching Techniques in File Systems 
+       for MIMD Multiprocessors</EM>
+       <UL>
+	 <LI>Dissertation <A HREF="/~dfk/papers/index-a.html#kotz:thesis">
+	      1991 PhD </A> </LI>
+       </UL>
+       </LI>
+       
+  <LI>
+       <EM>Practical Prefetching Techniques for Parallel File Systems</EM>
+       <UL>
+	 <LI>Conference <A HREF="/~dfk/papers/index-a.html#kotz:practical">
+	      PDIS '91</A> </LI>
+	 <LI>Journal <A HREF="/~dfk/papers/index-a.html#kotz:jpractical">
+	      JDPD 1/93 </A> </LI>
+       </UL>
+       </LI>
+       
+  <LI>
+       <EM>Caching and Writeback Policies in Parallel File Systems</EM>
+       <UL>
+	 <LI>Conference <A HREF="/~dfk/papers/index-a.html#kotz:writeback">
+	      SPDP '91 </A></LI>
+	 <LI>Journal <A HREF="/~dfk/papers/index-a.html#kotz:jwriteback">
+	      JPDC 1/93 </A></LI>
+       </UL>
+       </LI>
+       
+  <LI>
+       <EM>Multiprocessor File System Interfaces </EM>
+       <UL>
+	 <LI>Tech report <A HREF="/~dfk/papers/index-a.html#kotz:fsint"> 
+	      1992, outdated </A></LI>
+	 <LI>Workshop <A HREF="/~dfk/papers/index-a.html#kotz:fsint2p">
+	      Usenix WOFS '91, outdated </A></LI>
+	 <LI>Conference <A HREF="/~dfk/papers/index-a.html#kotz:fsint2">
+	      PDIS '93 </A></LI>
+       </UL>
+       </LI>
+</UL>
+
+<HR>
+
+<P><A HREF="/pario/"> General parallel I/O information. </A></P>
+
+</HTML>
+

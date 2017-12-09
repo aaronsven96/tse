@@ -1,0 +1,14 @@
+Test File-look at counters.c file for more info
+
+Description:
+First I made the counter object then I, look for sixes. Then I added numbers and found the increments. Then I deleted. 
+
+Output of testFile:
+
+find number of sixes: 0
+add two 5s,one 4,three 6s
+find number of sixes: 3
+find number of tens: 0
+find number of fives: 2
+find number of fours: 1
+delete

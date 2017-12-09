@@ -1,0 +1,143 @@
+http://old-www.cs.dartmouth.edu/~dfk/charisma/
+3
+<HTML>
+<HEAD><TITLE>CHARISMA project</TITLE></HEAD>
+<BODY>
+<H1>The CHARISMA Project (1993-1996)</H1>
+
+<P>
+
+The CHARISMA project began in June 1993 (at <A
+HREF="/old/dags/dags1993.html">DAGS'93</A>) to <EM>CHARacterize I/O in
+Scientific Multiprocessor Applications</EM> from a variety of
+production parallel computing platforms and sites.  The CHARISMA
+project is unique in recording individual read and write requests in
+live, multiprogramming, parallel workloads (rather than from selected
+or non-parallel applications).
+
+</P><P>
+
+The project is finished, i.e., there is no work currently underway and
+none planned. 
+
+</P><P>
+
+<strong>
+  <A HREF="more.html">More details</A> about the CHARISMA work.
+</strong>
+
+
+<H2>Papers: </H2> 
+<UL>
+  <li> <EM> Dynamic File-Access Characteristics of a 
+    	Production Parallel Scientific Workload</EM> (iPSC results)
+    <UL>
+	<LI><A HREF="/reports/abstracts/TR94-211/">
+    	    1994 TR</A> </LI>
+	<LI> <A HREF="/~dfk/papers/index-a.html#kotz:workload">
+	     Supercomputing '94 </A></LI>
+	<LI> <A HREF="/~dfk/papers/index-a.html#kotz:jworkload">
+	     <EM> IEEE Parallel & Distributed Technology</EM></A>.
+    </UL>
+  <li> <EM> Characterizing Parallel File-Access Patterns
+	on a Large-Scale Multiprocessor</EM> (CM-5 results)
+    <UL>
+	<LI><A HREF="/~dfk/papers/index-a.html#ap:workload-tr">1994 TR</A></LI>
+	<LI><A HREF="/~dfk/papers/index-a.html#ap:workload">IPPS '95</A></LI>
+    </UL>
+  <li> <EM> A Multiprocessor Extension to the Conventional File System Interface </EM> 
+    <UL>
+	<LI>  <A HREF="/reports/abstracts/TR94-230/"> 
+    	    1994 TR </A> (updated, renamed and rereleased below) </LI>
+    </UL>
+  <li> <EM> Low-level Interfaces for High-level Parallel I/O </EM> 
+    <UL>
+	<LI>  <A HREF="/reports/abstracts/TR95-253/">1995 TR</A></LI>
+	<LI> <A HREF="/~dfk/papers/index-a.html#nieuwejaar:strided2">IOPADS</A> at IPPS '95 </LI>
+    </UL>
+  <li> <EM> File-Access Characteristics of Parallel Scientific Workloads </EM> 
+    <UL>
+	<LI>  <A HREF="/reports/abstracts/TR95-263/">1995 TR</A>
+	 <li> <a href="/~dfk/papers/index-a.html#nieuwejaar:workload">IEEE TPDS</a>
+    </UL>
+</UL>
+
+
+</P><P>
+<H2> <A HREF="charisma-format.h"> The CHARISMA trace format </A> </H2> 
+
+</P><P>
+<H2>The CHARISMA group: </H2> 
+<DL>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*">
+       <A HREF="/"> Dartmouth College </A>
+  <DD> <A HREF="/~dfk/"> David Kotz </A></DD>
+  <DD> <a href="/~nils/">Nils Nieuwejaar</a> </DD>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> 
+       <A HREF="http://www.cs.duke.edu/"> Duke University </A>
+  <DD> <A HREF="http://www.cs.duke.edu/~carla/"> Carla Ellis </A></DD>
+  <DD> <A HREF="http://www.cs.duke.edu/~ap/"> Apratim Purakayastha </A></DD>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*">
+       <A HREF="http://www.nas.nasa.gov/home.html"> NASA Ames NAS </A>
+  <DD> Jeff Becker </DD>
+  <DD> <EM> Russell Carter </EM> </DD>
+  <DD> <a HREF="http://lovelace.nas.nasa.gov/Parallel/People/fineberg_homepage.html">
+       Sam Fineberg </a></DD>
+  <DD> <EM> Art Lazanoff </EM> </DD>
+  <DD> <a HREF="http://lovelace.nas.nasa.gov/Parallel/People/nitzberg_homepage.html">
+       Bill Nitzberg </a></DD>
+  <DD> <a HREF="http://lovelace.nas.nasa.gov/Parallel/People/travers_homepage.html">
+       Bernard Traversat </a></DD>
+       
+       
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> MIT
+  <DD> Mike Best (formerly of Thinking Machines) </DD>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> Cornell Theory Center
+  <DD> Dave Schneider </DD>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> IBM T.J. Watson Research Center
+  <DD> Caroline Benveniste </DD>
+       
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> 
+       <A HREF="http://www.cs.cmu.edu/"> Carnegie-Mellon University  </A>
+  <DD> <A HREF="http://www.cs.cmu.edu/afs/cs/user/garth/public/garth.html"> 
+       Garth Gibson </A>  </DD>
+  <DD> <A HREF="http://www.cs.cmu.edu/afs/cs/user/danner/www/danner.html"> Dan Stodolsky </A>  </DD>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> 
+       <A HREF="http://www.eecg.toronto.edu/EECG/EECGhome.html">
+       University of Toronto </A>
+  <DD> <A HREF="http://www.eecg.toronto.edu/~okrieg/">
+       Orran Krieger</A></DD>
+  <DT> <IMG SRC="/images/purpleball.gif" ALT="*"> 
+       <A HREF="http://www.npac.syr.edu/">
+       Syracuse University and NPAC </A>
+  <DD> <A HREF="http://www.npac.syr.edu/users/mrosario/hompage/mrosario.html">
+       Mike Del Rosario </A> </DD>
+</DL>
+</P>
+
+<HR>
+
+<H2>
+ <A HREF="/pario/"> General Information about Parallel I/O</A>.
+</H2>
+
+<HR>
+<P><EM>
+This research was supported in part by
+      the NASA Ames Research Center under Agreement Number NCC 2-849, 
+      the National Science Foundation under grant number CCR-9113170,
+      the National Center for Supercomputing Applications,
+      and Thinking Machines Corporation.
+</EM></P>
+
+<HR>
+<!-- hhmts start -->
+Last modified: Tue Dec 12 10:58:39 2000
+<!-- hhmts end -->
+<p>
+
+<IMG align="middle" SRC="/images/Dtree.gif">
+<A HREF="/">Back to Dartmouth CS Home Page</A>
+</BODY>
+</HTML>
+

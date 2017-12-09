@@ -1,0 +1,10 @@
+README for list.c
+Aaron Svendsen
+
+Compiling:
+See Make File
+
+Assumptions:
+User has to input correct data
+
+Limitations: Segment falt if you try to add something that isn't a list.

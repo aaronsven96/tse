@@ -1,0 +1,24 @@
+http://old-www.cs.dartmouth.edu/~dfk/papers/abstracts/kotz-frontiers.html
+3
+<HTML>
+<HEAD>
+ <TITLE>kotz:frontiers</TITLE>
+  <BASE href="http://www.cs.dartmouth.edu/~dfk/papers/index-t.html">
+</HEAD>
+<BODY background="" TEXT="#000000" BGCOLOR="#ffffff">
+David Kotz, Kevin Fu, Carl Gunter, and Avi Rubin.
+<b>Security for Mobile and Cloud Frontiers in Healthcare</b>.
+<i>Communications of the ACM</i>,
+58(8):21-23,
+August,
+2015.
+DOI <a href="http://dx.doi.org/10.1145/2790830">10.1145/2790830</a>.
+<p><b>Abstract:</b> Designers and developers of healthcare information technologies
+must address preexisting security vulnerabilities and undiagnosed future
+threats.</p>
+<p><a href="bibtex/kotz-frontiers.bib">BibTeX</a></p>
+<p><a target=_top href = "././kotz-frontiers.pdf">PDF</a> (631K)</p>
+<p><b>Copyright &#169;&nbsp;2015 by the authors.</b></p>
+</BODY>
+</HTML>
+

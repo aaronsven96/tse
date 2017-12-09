@@ -1,0 +1,10 @@
+ListTest
+Description: Made List. Inserted item 2 times and got false. Inserted a bunch of items and found them. Then I looked for an item that is not there. Item was null. Deletes list
+
+Output from Testfile:
+
+Inserts item twice false
+Insert and find dog
+Insert and find cat
+Insert and find moose
+Looks for item not there (null)

@@ -1,0 +1,42 @@
+http://old-www.cs.dartmouth.edu/~dfk/sasos/
+3
+<TITLE>Single-Address-Space Operating Systems</TITLE>
+<H1>Single-Address-Space Operating Systems Archive</H1>
+
+No longer maintained.
+
+<UL>
+<LI><A HREF="project.html">Projects</A>
+<LI><A HREF="papers">Papers</A>
+<LI><A HREF="list-archive.txt">mailing list -- archival text</A>
+<LI>Bibliography
+	<UL>
+	<LI> <A HREF="sasos.bib">BibTeX</A>
+	<LI> <A HREF="sasos_bib.html">HTML</A> (long)
+	<LI> <A HREF="sasos_bib_short.html">HTML</A> (without abstracts)
+	</UL>
+</UL>
+
+<h2>old README text</h2> (adapted for historical archiving purposes):
+<p>
+This directory is an archive of information related to
+single-address-space operating systems. It was maintained by 
+  Preston Crow, and  David Kotz, Dartmouth College.
+<p>
+There was an electronic mailing list for people interested in such
+systems. The list is archived as a <a href=list-archive.txt>text file</a>.
+<p>
+old: "Contributions to the directory are welcome. Please send them to one of
+us.  We are particularly interested in getting bib entries for any
+papers you find that are missing from the bibliography, and a
+one-paragraph ASCII description of your research project."
+<p>
+<pre>
+David Kotz
+Assistant Professor
+Department Computer Science
+Dartmouth College
+6211 Sudikoff Laboratory, Room 116
+Hanover, NH  03755-3510 USA
+</pre>
+

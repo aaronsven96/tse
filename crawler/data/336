@@ -1,0 +1,55 @@
+http://old-www.cs.dartmouth.edu/~tjp/
+3
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <title>Tim Pierson</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Bootstrap latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+  <!-- Bootstrap optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+  <!-- jquery -->
+  <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ=" crossorigin="anonymous"></script>
+
+  <!-- Bootstrap latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="pierson_style.css">
+</head>
+
+<body>
+  <div id="header" class="text-center">
+    <img src="./images/me.jpg" class="img-circle" alt="Picture of me">
+    <h1>Tim Pierson</h1>
+  </div>
+
+  <div id="content">
+    <h2>Current work</h2>
+    <p>
+      I'm currently a graduate student in computer science at <a href="http://web.cs.dartmouth.edu/">Dartmouth College</a> working with <a href="http://www.cs.dartmouth.edu/~dfk/">Professor David Kotz</a>.  My research interests are in mobile health (mHealth), and wireless sensor networks. My work is funded by the National Science Foundation's <a href="https://thaw.org/">Trustworthy Health and Wellness (THaW) grant</a>.  
+    </p>
+
+    <p>
+      My recent work, a project called <a href='TR2016-789.pdf'>Wanda</a>, is about introducing new devices into an environment in a secure manner.  I presented this work at <a href= "http://infocom2016.ieee-infocom.org/program/main-technical-program">INFOCOM 2016</a> in San Francisco were we won the Best-In-Session presentation award.  This work was also featured in over 200 newspaper, radio, and television programs, including: the New York Times and Washington Post.
+    </p>
+
+    <p>
+      Most days you can find me in office 255 of <a href="http://web.cs.dartmouth.edu/contact-us">Sudikoff Lab</a> or you can email me at tjp at cs.dartmouth.edu.
+    </p>
+
+    <!--
+    <h2>Previous work</h2>
+      <h3>Deployed 11,000 sensors on the street in San Francisco</h3>
+      <p>
+        Previously I've worked with start ups, including <a href="http://www.fybr-tech.com/">StreetSmart Technology (now Fybr)</a> where we installed 11,000 vehicle sensors on the street in San Francisco.  These sensors detected the presence of automobiles in parking spaces and radioed that information into a central server.  Drivers were then able to find available parking spots by querying the central server using a mobiel app.  <a href="http://www.uctc.net/research/papers/351.pdf">Academic studies</a> have shown that about 30% of downtown traffic is comprised of motorists circling looking for parking.  Our goal was to send those motorists directly to open parking spaces, thereby reducing congestion and pollution.
+      </p>
+    -->
+  </div>
+
+</body>
+</html>

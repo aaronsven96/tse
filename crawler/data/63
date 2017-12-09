@@ -1,0 +1,41 @@
+http://old-www.cs.dartmouth.edu/~dfk/papers/abstracts/shin-anonytiles.html
+3
+<HTML>
+<HEAD>
+ <TITLE>shin:anonytiles</TITLE>
+  <BASE href="http://www.cs.dartmouth.edu/~dfk/papers/index-t.html">
+</HEAD>
+<BODY background="" TEXT="#000000" BGCOLOR="#ffffff">
+Minho Shin, Cory Cornelius, Apu Kapadia, Nikos Triandopoulos, and David Kotz.
+<b>Location Privacy for Mobile Crowd Sensing through Population
+Mapping</b>.
+<i>Sensors</i>,
+June,
+2015.
+DOI <a href="http://dx.doi.org/10.3390/s150715285">10.3390/s150715285</a>.
+<p><b>Abstract:</b> Opportunistic sensing allows applications to ``task'' mobile
+devices to measure context in a target region. For example, one could
+leverage sensor-equipped vehicles to measure traffic or pollution levels on a
+particular street or users' mobile phones to locate (Bluetooth-enabled)
+objects in their vicinity. In most proposed applications, context reports
+include the time and location of the event, putting the privacy of users at
+increased risk: even if identifying information has been removed from a
+report, the accompanying time and location can reveal sufficient information
+to de-anonymize the user whose device sent the report. We propose and
+evaluate a novel spatiotemporal blurring mechanism based on tessellation and
+clustering to protect users' privacy against the system while reporting
+context. Our technique employs a notion of probabilistic k-anonymity; it
+allows users to perform local blurring of reports efficiently without an
+online anonymization server before the data are sent to the system. The
+proposed scheme can control the degree of certainty in location privacy and
+the quality of reports through a system parameter. We outline the
+architecture and security properties of our approach and evaluate our
+tessellation and clustering algorithm against real mobility traces.</p>
+<p><b>Keywords:</b> mobile computing, sensors, wireless, ubicomp</p>
+<p><a href="bibtex/shin-anonytiles.bib">BibTeX</a></p>
+<p><a target=_top href = "././shin-anonytiles.pdf">PDF</a> (621K)</p>
+<p><b>Copyright &#169;&nbsp;2015 by the authors.</b></p>
+<p>See also earlier version <b><a href="abstracts/kapadia-anonysense.html">kapadia:anonysense</a></b>.</p>
+</BODY>
+</HTML>
+

@@ -1,0 +1,10 @@
+README for counters.c and counterstest.c
+Aaron Svendsen
+
+Compiling:
+	look at Makefile
+
+Assumptions:
+Not sure about error hadling, I am assuming that the user would have to input the correct arguments
+
+Limitations: Very few functions for counters. Have to search through list

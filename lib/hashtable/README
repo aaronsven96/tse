@@ -1,0 +1,10 @@
+README for hashtable.c
+Aaron Svendsen
+
+Compiling:
+See Make File
+
+Assumptions:
+User has to input correct data
+
+Limitations: 

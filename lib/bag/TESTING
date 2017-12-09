@@ -1,0 +1,12 @@
+Test file
+Decription: Made bag and tried extracting. Then added and extracted data. Then tried agian and  got nothing. Then inserted and extracted data. Then deleted bag.
+
+Output form testfile:
+
+Try extracting nothing (null)
+
+Extracts data: data1
+Extracts nothing: (null)
+
+Insert bunch of items and extract them
+data2 data3 data4 (null) (null) 

@@ -1,0 +1,19 @@
+Test code for hashtabletest.c
+
+Description:
+First I made a hashtable. Then I added a bunch of items and it returned true. Then, i inserted Hi agian and got false. Then I found all items. Then delete the hashtable
+
+Output of Testcode:
+These should be true 
+true 
+Insert HI true 
+Insert DOG true 
+Insert CAT true 
+Insert BYE 
+ this should be false since inserting HI agian: false
+Insert HI 
+Finding what we just added
+HI
+CAT
+DOG
+BYE

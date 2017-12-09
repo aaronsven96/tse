@@ -1,0 +1,45 @@
+http://old-www.cs.dartmouth.edu/~dfk/ILI/dapple/
+3
+<HTML>
+<HEAD><TITLE>DAta-Parallel Programming Library for Education</TITLE></HEAD>
+<BODY>
+<H1> DAta-Parallel Programming Library for Education (DAPPLE) </H1>
+
+<P> 
+ DAPPLE is a C++ class library designed to provide the illusion of a
+data-parallel programming language on conventional hardware and with
+conventional compilers.  DAPPLE defines Vectors and Matrices as basic
+classes, with all the C operators overloaded to provide for
+elementwise arithmetic.  In addition, DAPPLE provides typical
+data-parallel operations such as scans, permutations, and reductions.
+Finally, DAPPLE provides a parallel if-then-else statement to restrict
+the context of the above operations to subsets of vectors or matrices.
+ </P><P>
+<UL>
+<LI> <A HREF="quick.html"> A quick glance at DAPPLE </A>
+<LI> <A HREF="lite/intro.html"> A short tour of DAPPLE programming </A>
+<LI> <A HREF="full/intro.html"> A full tour of DAPPLE programming </A>
+<LI> <A HREF="reference.html"> Reference pages for DAPPLE programmers </A>
+<LI> <A HREF="lectures/index.html"> CS15 Lectures</A>
+<LI> <A HREF="examples/cs15.html"> CS15 Examples </A>
+<LI> <A HREF="examples/index.html"> Example DAPPLE programs </A>
+<LI> <A HREF="availability.html"> Availability </A>
+<LI> <A HREF="http://www.cs.dartmouth.edu/reports/abstracts/TR94-235/">Tech report</A>
+<LI> <A HREF="http://www.cs.dartmouth.edu/~dfk/papers/kotz:dapple.pdf">SIGCSE '95 paper</A> (revision of TR)
+<LI> <A HREF="http://www.cs.dartmouth.edu/~dfk/papers/kotz:jdapple.pdf"><em>Computer Science Education</em>
+     paper</A>
+</UL>
+ </P><P>
+DAPPLE was developed by <A HREF="/~dfk/"> David Kotz </A>
+as part of an <A HREF="/ILI/">NSF ILI-LLD project</A>
+at Dartmouth College.  Please contact him with any questions or
+suggestions. 
+ </P>
+
+<HR>
+<IMG align="middle" SRC="/images/Dtree.gif">
+ <A HREF="/">Back to Dartmouth CS Home Page</A>
+
+</BODY>
+</HTML>
+

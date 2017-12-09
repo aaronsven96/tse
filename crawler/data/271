@@ -1,0 +1,88 @@
+http://old-www.cs.dartmouth.edu/~dfk/STARFISH/
+3
+<html>
+<head>
+<title>STARFISH Simulator</title>
+</head>
+
+<body>
+<h1>STARFISH: Simulation Tool for Advanced Research in File Systems</H1>
+
+<h3>
+ <A HREF="http://www.cs.dartmouth.edu/~dfk/">David Kotz</A><BR>
+ <A HREF="http://www.cs.dartmouth.edu/">Dartmouth College Computer Science</A><BR>
+ Version 3.0,  October 1996<BR>
+</H3>
+
+<hr>
+
+<P> STARFISH is a simulator for experimenting with concepts in
+parallel file systems.  It is based on Eric Brewer's <EM>Proteus</EM>
+simulator from MIT, version 3.01, and <b>runs only on (MIPS-based)
+DECstations</b>.  I have used this simulator in experiments for
+several research <A HREF="papers/">papers</A> about
+<EM>disk-directed I/O</EM>. </P>
+
+<H3>Warning: </H3> 
+ <P> <EM> I am providing the code as-is, with little cleanup or added
+documentation.  Some of the code is out-of-date and may have bugs.
+Other parts are incomplete.  Many of the analysis scripts are fragile.
+The code is constantly evolving, and new public releases may be rare.
+But many people have asked me for it, so here it is.</EM></P>
+
+See other warnings in the src/README file.<p>
+
+It's probably not as bad as it sounds ;-).<p>
+
+<H3>Usage rules:</H3>
+ <P> You're welcome to look at the code and even try to run it, but I
+really don't have time to help you out much.  If you publish any
+results based on this simulator, please cite me and provide the URL
+for this page.</P>
+
+<H3>Copying rules: </H3>
+ <P> This package may be freely copied as long as it is kept intact
+with my name on it.  You may not sell it for commercial purposes (hah!
+as if anyone would pay for it.)  Please send me a note if you have a
+copy of this code, so I can keep track of how many copies there are,
+send you email about new versions, and so forth.  Please ask me before
+you distribute any modified version.</P>
+
+<H3> What you can get:</H3>
+
+<A HREF="starfish3.0.tar.gz"> Sources</A> 
+ (2.1 MB, 9.4 MB uncompressed):
+   <UL>
+   <LI>	starfish/proteus (the Proteus simulator and tools, with my changes)
+   <LI>	starfish/src (the source code, and compilation director)
+   <LI>	starfish/src/run (the scripts necessary to build and run my experiments)
+   </UL>
+
+<H3> The name:</H3>
+ <P>The name STARFISH is an acronym, but it fits with the maritime
+theme of the Proteus simulator on which it is based (Proteus was a
+Greek god of the sea).</P>
+
+<h3> <a href="starfish2/">STARFISH release 2.0</a>, of January 1995</h3>
+
+<h3> <A HREF="papers/">Related papers</A>.</h3>
+
+<h3> <A HREF="http://www.cs.dartmouth.edu/pario/"> Other parallel-I/O projects</A>.</h3>
+
+<hr>
+
+<h3>Funding</h3>
+   This project was supported largely by NSF award CCR-940919.<p>
+
+
+<hr>
+
+<!-- hhmts start -->
+Last modified: Tue Dec 12 11:38:24 2000
+<!-- hhmts end -->
+
+--<A HREF="http://www.cs.dartmouth.edu/~dfk/">David Kotz</A>
+
+</BODY>
+</HTML>
+

@@ -1,0 +1,36 @@
+http://old-www.cs.dartmouth.edu/~dfk/papers/abstracts/pierson-wanda.html
+3
+<HTML>
+<HEAD>
+ <TITLE>pierson:wanda</TITLE>
+  <BASE href="http://www.cs.dartmouth.edu/~dfk/papers/index-t.html">
+</HEAD>
+<BODY background="" TEXT="#000000" BGCOLOR="#ffffff">
+Timothy J. Pierson, Xiaohui Liang, Ronald Peterson, and David Kotz.
+<b>Wanda: securely introducing mobile devices</b>.
+In
+<i>IEEE International Conference on Computer Communications
+(INFOCOM)</i>,
+April,
+2016.
+Accepted for publication.
+<p><b>Abstract:</b> Nearly every setting is increasingly populated with wireless and
+mobile devices - whether appliances in a home, medical devices in a health
+clinic, sensors in an industrial setting, or devices in an office or school.
+There are three fundamental operations when bringing a new device into any of
+these settings: (1) to configure the device to join the wireless local-area
+network, (2) to partner the device with other nearby devices so they can work
+together, and (3) to configure the device so it connects to the relevant
+individual or organizational account in the cloud. The challenge is to
+accomplish all three goals simply, securely, and consistent with user
+intent. We present a novel approach we call Wanda - a `magic wand' that
+accomplishes all three of the above goals - and evaluate a prototype
+implementation.</p>
+<p><a href="bibtex/pierson-wanda.bib">BibTeX</a></p>
+<p><a target=_top href = "././pierson-wanda.pdf">PDF</a> (1840K)</p>
+<p><b>Copyright &#169;&nbsp;2016 by IEEE.</b></p>
+The copy made available here is the authors' version; for a definitive copy see the publisher's version described above.
+<p>See also earlier version <b><a href="abstracts/pierson-wanda-tr.html">pierson:wanda-tr</a></b>.</p>
+</BODY>
+</HTML>
+
